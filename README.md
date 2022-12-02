@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santiagomicolini
-- 👀 I’m interested in sports: road cycling, skiing, kitesurf, surf. I love caravan life and travel.  
+- 👀 I’m interested in sports: road cycling, skiing, kitesurf, surf.
 - 🌱 I’m currently learning Web Development at @lewagon
 - 💞️ I’m looking to collaborate on projects related with environmentalim or climate change
 - 📫 How to reach me: email: santi.micolini2@gmail.com

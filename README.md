@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @santiagomicolini
-- 👀 I’m interested in sports: road cycling, skiing, kitesurf, surf.
-- 🌱 I’m currently learning Web Development at @lewagon
-- 💞️ I’m looking to collaborate on projects related with environmentalim or climate change
+- 👨‍🎓 I've finished my 9 weeks my 9 weeks intensive Web Development bootcamp at @lewagon
+- 💻 I'd love to work as a full-stack developer
+- 🌱 I’m interested about toplics like climate change and environmentalim
 - 📫 How to reach me: email: santi.micolini2@gmail.com
+- 👀 In my free time I love to be outside doing some road cycling, skiing, kitesurfing. 
+
 
 <!---
 santiagomicolini/santiagomicolini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

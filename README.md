@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santiagomicolini
-- 👨‍🎓 I've finished my 9 weeks my 9 weeks intensive Web Development bootcamp at @lewagon
+- 👨‍🎓 I've finished my 9 weeks intensive Web Development bootcamp at @lewagon
 - 💻 I'd love to work as a full-stack developer
 - 🌱 I’m interested about toplics like climate change and environmentalim
 - 📫 How to reach me: email: santi.micolini2@gmail.com

@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @santiagomicolini
 - 👨‍🎓 I've finished my 9 weeks intensive Web Development bootcamp at @lewagon
-- 💻 I'd love to work as a full-stack developer
-- 🌱 I’m interested about toplics like climate change and environmentalim
+- 🌱 I'm interested about topics like climate change and environmentalism
 - 📫 How to reach me: email: santi.micolini2@gmail.com
 - 👀 In my free time I love to be outside doing some road cycling, skiing, kitesurfing. 
 
